@@ -2,8 +2,8 @@ export default function About() {
     const infoItems = [
         { label: 'Name', value: 'Ahmed Sahal' },
         { label: 'Experience', value: '5+ Years' },
-        { label: 'Location', value: 'Available Remote' },
-        { label: 'Speciality', value: 'MERN / AWS' },
+        { label: 'Location', value: 'Dubai, UAE' },
+        { label: 'Speciality', value: 'Full-Stack & AI Systems' },
     ]
 
     return (
@@ -32,19 +32,20 @@ export default function About() {
                     </div>
 
                     <div className="about-text animate-in">
-                        <h3>A Passionate Engineer Who Loves Clean Code & Scalable Systems</h3>
+                        <h3>Full-Stack Engineer & AI Systems Builder</h3>
                         <p>
-                            I'm Ahmed Sahal, a Full-Stack Software Engineer with over 5 years of
-                            hands-on experience designing and shipping production-grade applications.
-                            I specialize in the MERN stack — MongoDB, Express.js, React, and Node.js —
-                            and have deep expertise with AWS cloud services.
+                            I'm Ahmed Sahal, a Full-Stack Engineer with 5+ years of hands-on experience
+                            architecting AI-powered systems, agentic workflows, and production-grade backends.
+                            I'm a deep practitioner of LangChain, LangGraph, RAG pipelines, and MCP server
+                            architecture — with a proven track record of transforming complex real-world
+                            challenges into robust, scalable systems.
                         </p>
                         <p>
-                            Throughout my career at companies like iGrant, WorkPlus, and CloudNova Solutions,
-                            I've worked across the full development lifecycle — from architecting
-                            backends and crafting responsive UIs to deploying CI/CD pipelines
-                            and mentoring junior developers. I thrive in fast-paced environments where
-                            clean code, agile methodology, and collaboration drive success.
+                            At Tuscan Consulting, I designed and deployed Consultex AI — a fully agentic
+                            HR platform that replaced end-to-end manual consulting workflows with autonomous
+                            AI agents. My work spans multi-agent orchestration, intelligent document retrieval,
+                            and scalable backend engineering. I'm passionate about advancing agentic AI
+                            research and human-information interaction.
                         </p>
 
                         <div className="about-info-grid">

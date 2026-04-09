@@ -1,6 +1,12 @@
 export default function Skills() {
     const stacks = [
         {
+            icon: '🤖',
+            title: 'AI & Agents',
+            subtitle: 'Agentic AI Systems',
+            tags: ['LangChain', 'LangGraph', 'OpenAI APIs', 'RAG Pipelines', 'MCP Servers', 'AI Agents', 'Prompt Engineering', 'Workflow Automation'],
+        },
+        {
             icon: '⚛️',
             title: 'MERN Stack',
             subtitle: 'Core Expertise',
@@ -39,7 +45,7 @@ export default function Skills() {
                     <span className="section-label">Tech Stack</span>
                     <h2 className="section-title">Technologies I Work With</h2>
                     <p className="section-subtitle">
-                        5 years of mastering diverse technologies across the full development spectrum.
+                        5+ years mastering AI systems, agentic workflows, and full-stack engineering.
                     </p>
                 </div>
 
